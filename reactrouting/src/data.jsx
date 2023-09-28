@@ -1,0 +1,5 @@
+export const blogsData = [
+    {id:1,title:'html',body:'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro harum beatae sapiente, praesentium rerum et omnis voluptate vero. Ratione enim quasi necessitatibus possimus reprehenderit veniam, minus quibusdam sint sunt vero.'},
+    {id:2,title:'css',body:'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro harum beatae sapiente, praesentium rerum et omnis voluptate vero. Ratione enim quasi necessitatibus possimus reprehenderit veniam, minus quibusdam sint sunt vero.'},
+    {id:3,title:'react',body:'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro harum beatae sapiente, praesentium rerum et omnis voluptate vero. Ratione enim quasi necessitatibus possimus reprehenderit veniam, minus quibusdam sint sunt vero.'}
+]
